@@ -1,0 +1,40 @@
+#main-title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("file:///D:/My%20Projects/Dasmotos/resources/images/pattern.jpeg");
+     /*image didn't load with a relative path*/
+}
+
+#brushes-title{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#frames-title{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: coral;
+}
+
+#paint-title{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: Skyblue;
+
+}
+
+.prices {
+    font-family: Helvetica;
+    font-weight:bold;
+    color:blue;
+}
